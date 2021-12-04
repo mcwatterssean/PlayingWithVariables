@@ -1,0 +1,15 @@
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\bin\Debug\net6.0\PlayingWithVariablesConsole.exe
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\bin\Debug\net6.0\PlayingWithVariablesConsole.deps.json
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\bin\Debug\net6.0\PlayingWithVariablesConsole.runtimeconfig.json
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\bin\Debug\net6.0\PlayingWithVariablesConsole.dll
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\bin\Debug\net6.0\ref\PlayingWithVariablesConsole.dll
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\bin\Debug\net6.0\PlayingWithVariablesConsole.pdb
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\PlayingWithVariablesConsole.csproj.AssemblyReference.cache
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\PlayingWithVariablesConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\PlayingWithVariablesConsole.AssemblyInfoInputs.cache
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\PlayingWithVariablesConsole.AssemblyInfo.cs
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\PlayingWithVariablesConsole.csproj.CoreCompileInputs.cache
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\PlayingWithVariablesConsole.dll
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\ref\PlayingWithVariablesConsole.dll
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\PlayingWithVariablesConsole.pdb
+C:\Users\mcwat\Desktop\Repos\PlayingWithVariables\PlayingWithVariablesConsole\obj\Debug\net6.0\PlayingWithVariablesConsole.genruntimeconfig.cache
